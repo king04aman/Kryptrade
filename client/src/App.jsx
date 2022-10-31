@@ -1,7 +1,5 @@
 import { Navbar, Welcome, Footer, Services, Transactions } from "./components";
 
-//31:00 
-
 const App = () => (
   <div className="min-h-screen">
     <div className="gradient-bg-welcome">
